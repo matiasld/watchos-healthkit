@@ -1,2 +1,4 @@
-# watchos-healthkit
-POC for testing Apple Watch as companion app and HealthKit for workouts.
+# watch-ios-POC
+Apple Watch integration with HealthKit in SwiftUI- POC
+
+### [README WIP]
